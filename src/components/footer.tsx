@@ -65,7 +65,7 @@ export function Footer() {
           <div>
             <h3 className="text-lg font-bold mb-4">Contact</h3>
             <p className="text-muted-foreground mb-2">Feel free to reach out if you have any questions.</p>
-            <p className="text-foreground/80">Email: hello@khoirulmuhlisin.my.id</p>
+            <p className="text-foreground/80">Email: info@khoirulmuhlisin.my.id</p>
           </div>
         </div>
         <div className="mt-8 pt-6 border-t border-border/30 text-center text-muted-foreground">
