@@ -122,7 +122,7 @@ export function AboutSection() {
             <div className="relative">
               <div className="aspect-[4/3] overflow-hidden rounded-lg border border-border">
                 <img
-                  src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80"
+                  src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHdlYiUyMGRlbGV2b3BlcnxlbnwwfHwwfHx8MA%3D%3D"
                   alt="Khoirul working"
                   className="w-full h-full object-cover transition-all duration-500 hover:scale-105"
                 />
