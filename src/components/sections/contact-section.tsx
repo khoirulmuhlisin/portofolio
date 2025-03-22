@@ -42,17 +42,17 @@ export function ContactSection() {
     {
       icon: <Mail className="h-5 w-5" />,
       title: "Email",
-      value: "hello@khoirulmuhlisin.my.id",
+      value: "info@khoirulmuhlisin.my.id",
     },
     {
       icon: <Phone className="h-5 w-5" />,
       title: "Phone",
-      value: "+62 123 4567 890",
+      value: "+62 812 1062 2374",
     },
     {
       icon: <MapPin className="h-5 w-5" />,
       title: "Location",
-      value: "Jakarta, Indonesia",
+      value: "Bogor, Indonesia",
     },
   ];
 
@@ -129,7 +129,7 @@ export function ContactSection() {
                 <Input
                   id="name"
                   name="name"
-                  placeholder="John Doe"
+                  placeholder="Your Name"
                   value={formData.name}
                   onChange={handleChange}
                   required
@@ -143,7 +143,7 @@ export function ContactSection() {
                   id="email"
                   name="email"
                   type="email"
-                  placeholder="john@example.com"
+                  placeholder="email@example.com"
                   value={formData.email}
                   onChange={handleChange}
                   required
