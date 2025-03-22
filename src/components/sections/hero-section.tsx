@@ -84,7 +84,7 @@ export function HeroSection() {
               <div className="absolute inset-0 bg-gradient-to-tr from-primary/20 to-secondary/20 rounded-full animate-float"></div>
               <div className="absolute inset-4 overflow-hidden rounded-full border border-border/50 bg-background/30 backdrop-blur-sm">
                 <img
-                  src="https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80"
+                  src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8d2ViJTIwZGVsZXZvcGVyfGVufDB8fDB8fHww"
                   alt="Khoirul Muhlisin"
                   className="w-full h-full object-cover"
                 />
