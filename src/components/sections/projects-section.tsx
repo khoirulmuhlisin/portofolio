@@ -38,7 +38,7 @@ export function ProjectsSection() {
       image: "https://images.unsplash.com/photo-1534040385115-33dcb3acba5b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
       tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
       link: "https://ngopikuy.vercel.app",
-      github: "https://github.com/khoerulmuhlisin/ngopikuy",
+      github: "#",
       year: "2023",
       featured: true
     },
@@ -48,7 +48,7 @@ export function ProjectsSection() {
       image: "https://images.unsplash.com/photo-1509315811345-672d83ef2fbc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
       tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
       link: "https://warungbuade.vercel.app",
-      github: "https://github.com/khoerulmuhlisin/warungbuade",
+      github: "#",
       year: "2025",
       featured: true
     },
@@ -58,7 +58,7 @@ export function ProjectsSection() {
       image: "https://media.istockphoto.com/id/2187659253/photo/odading-is-a-sweet-fried-bread-from-indonesia-with-a-soft-fluffy-interior-and-slightly-crispy.webp?a=1&b=1&s=612x612&w=0&k=20&c=KNnuq_aPx2oD82OSKrWtDnWHcGvdWF1D7NAtL_09IME=",
       tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
       link: "https://odadingmangabo.vercel.app",
-      github: "https://github.com/khoerulmuhlisin/odadingmangabo",
+      github: "#",
       year: "2022",
       featured: false
     },
@@ -68,7 +68,7 @@ export function ProjectsSection() {
       image: "https://images.unsplash.com/photo-1513546493312-0066d7de3fd2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhhcHB5JTIwYmlydGhkYXl8ZW58MHx8MHx8fDA%3D",
       tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
       link: "https://selamatulangtahun.vercel.app",
-      github: "https://github.com/khoerulmuhlisin/selamatulangtahun",
+      github: "#",
       year: "2021",
       featured: false
     },
@@ -78,7 +78,7 @@ export function ProjectsSection() {
       image: "https://1.bp.blogspot.com/-rPscTos01qE/XoSc5x-Av8I/AAAAAAAAGaM/kGdd2q5_9KUR5LNdZnMNueGEtou0J_e7wCLcBGAsYHQ/s640/resep-bakso-mercon-simple.jpg",
       tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
       link: "https://baksokaisar.vercel.app",
-      github: "https://github.com/khoerulmuhlisin/baksokaisar",
+      github: "#",
       year: "2024",
       featured: false
     },
@@ -88,7 +88,7 @@ export function ProjectsSection() {
       image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
       tags: ["Next.js", "Styled Components", "Sanity CMS", "Three.js"],
       link: "https://ardisia.vercel.app",
-      github: "https://github.com/khoerulmuhlisin/ardisia",
+      github: "#",
       year: "2023",
       featured: true
     },
