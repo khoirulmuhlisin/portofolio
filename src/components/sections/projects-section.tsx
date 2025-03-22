@@ -35,7 +35,7 @@ export function ProjectsSection() {
     {
       title: "NgopiKuy",
       description: "Modern coffee shop website with online ordering capabilities, customer accounts, and admin dashboard.",
-      image: "https://images.unsplash.com/photo-1534040385115-33dcb3acba5b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+      image: "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
       link: "https://ngopikuy.vercel.app",
       github: "#",
@@ -45,7 +45,7 @@ export function ProjectsSection() {
     {
       title: "Warung Bu Ade",
       description: "School canteen website with interactive menu, ordering system, and inventory management.",
-      image: "https://images.unsplash.com/photo-1509315811345-672d83ef2fbc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+      image: "https://plus.unsplash.com/premium_photo-1663126629970-f76cf591361d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Zm9vZCUyMGNvdXJ0fGVufDB8fDB8fHww",
       tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
       link: "https://warungbuade.vercel.app",
       github: "#",
@@ -55,7 +55,7 @@ export function ProjectsSection() {
     {
       title: "Odading Mang Abo",
       description: "Traditional cake business website with online store, payment integration, and order tracking.",
-      image: "https://media.istockphoto.com/id/2187659253/photo/odading-is-a-sweet-fried-bread-from-indonesia-with-a-soft-fluffy-interior-and-slightly-crispy.webp?a=1&b=1&s=612x612&w=0&k=20&c=KNnuq_aPx2oD82OSKrWtDnWHcGvdWF1D7NAtL_09IME=",
+      image: "https://i0.wp.com/resepkoki.id/wp-content/uploads/2018/04/Resep-Odading.jpg?fit=1481%2C1144&ssl=1",
       tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
       link: "https://odadingmangabo.vercel.app",
       github: "#",
@@ -65,7 +65,7 @@ export function ProjectsSection() {
     {
       title: "Selamat Ulang Tahun",
       description: "Interactive birthday greeting website with customizable messages, animations, and music.",
-      image: "https://images.unsplash.com/photo-1513546493312-0066d7de3fd2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhhcHB5JTIwYmlydGhkYXl8ZW58MHx8MHx8fDA%3D",
+      image: "https://memesbams.com/wp-content/uploads/2019/05/Cool-Happy-Birthday-To-You-Images-3.jpg",
       tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
       link: "https://selamatulangtahun.vercel.app",
       github: "#",
