@@ -49,7 +49,7 @@ export function ProjectsSection() {
       tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
       link: "https://warungbuade.vercel.app",
       github: "https://github.com/khoerulmuhlisin/warungbuade",
-      year: "2022",
+      year: "2025",
       featured: true
     },
     {
@@ -70,6 +70,16 @@ export function ProjectsSection() {
       link: "https://selamatulangtahun.vercel.app",
       github: "https://github.com/khoerulmuhlisin/selamatulangtahun",
       year: "2021",
+      featured: false
+    },
+        {
+      title: "Bakso Kaisar",
+      description: "Delicious and Authentic Meatball Delights – A Taste of Tradition in Every Bite!",
+      image: "https://1.bp.blogspot.com/-rPscTos01qE/XoSc5x-Av8I/AAAAAAAAGaM/kGdd2q5_9KUR5LNdZnMNueGEtou0J_e7wCLcBGAsYHQ/s640/resep-bakso-mercon-simple.jpg",
+      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
+      link: "https://baksokaisar.vercel.app",
+      github: "https://github.com/khoerulmuhlisin/baksokaisar",
+      year: "2024",
       featured: false
     },
     {
