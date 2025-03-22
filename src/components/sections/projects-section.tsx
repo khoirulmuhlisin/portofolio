@@ -92,6 +92,16 @@ export function ProjectsSection() {
       year: "2023",
       featured: true
     },
+        {
+      title: "DapoeRasa",
+      description: "DapoeRasa is a premium catering service offering delicious, high-quality meals for daily needs, corporate events, and special occasions.",
+      image: "https://th.bing.com/th/id/OIP.yZMqqi85Ca8zNpe8aSyCWwHaE8?rs=1&pid=ImgDetMain",
+      tags: ["Next.js", "Styled Components", "Sanity CMS", "Three.js"],
+      link: "https://dapoerasa.vercel.app",
+      github: "#",
+      year: "2025",
+      featured: true
+    },
   ];
 
   return (
