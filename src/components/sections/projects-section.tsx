@@ -163,6 +163,16 @@ export function ProjectsSection() {
       featured: true
     },
     {
+      title: "Vero Design",
+      description: "Designing spaces, creating experiences – architectural designs that inspire and endure.",
+      image: "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXJjaGl0ZWN0dXJlfGVufDB8fDB8fHww",
+      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
+      link: "https://verodesign.vercel.app",
+      github: "#",
+      year: "2024",
+      featured: false
+    },
+    {
       title: "Ardisia Design",
       description: "Professional architecture service website with portfolio showcase, 3D models, and consultation booking.",
       image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
