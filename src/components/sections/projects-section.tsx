@@ -53,13 +53,13 @@ export function ProjectsSection() {
       featured: true
     },
     {
-      title: "NgopiKuy",
-      description: "Modern coffee shop website with online ordering capabilities, customer accounts, and admin dashboard.",
-      image: "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
-      link: "https://ngopikuy.vercel.app",
+      title: "DapoeRasa",
+      description: "DapoeRasa is a premium catering service offering delicious, high-quality meals for daily needs, corporate events, and special occasions.",
+      image: "https://th.bing.com/th/id/OIP.yZMqqi85Ca8zNpe8aSyCWwHaE8?rs=1&pid=ImgDetMain",
+      tags: ["Next.js", "Styled Components", "Sanity CMS", "Three.js"],
+      link: "https://dapoerasa.vercel.app",
       github: "#",
-      year: "2023",
+      year: "2025",
       featured: true
     },
     {
@@ -70,6 +70,36 @@ export function ProjectsSection() {
       link: "https://warungbuade.vercel.app",
       github: "#",
       year: "2025",
+      featured: true
+    },
+    {
+      title: "Bakso Kaisar",
+      description: "Delicious and Authentic Meatball Delights – A Taste of Tradition in Every Bite!",
+      image: "https://1.bp.blogspot.com/-rPscTos01qE/XoSc5x-Av8I/AAAAAAAAGaM/kGdd2q5_9KUR5LNdZnMNueGEtou0J_e7wCLcBGAsYHQ/s640/resep-bakso-mercon-simple.jpg",
+      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
+      link: "https://baksokaisar.vercel.app",
+      github: "#",
+      year: "2024",
+      featured: false
+    },
+    {
+      title: "NgopiKuy",
+      description: "Modern coffee shop website with online ordering capabilities, customer accounts, and admin dashboard.",
+      image: "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
+      link: "https://ngopikuy.vercel.app",
+      github: "#",
+      year: "2023",
+      featured: true
+    },
+    {
+      title: "Ardisia Design",
+      description: "Professional architecture service website with portfolio showcase, 3D models, and consultation booking.",
+      image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+      tags: ["Next.js", "Styled Components", "Sanity CMS", "Three.js"],
+      link: "https://ardisia.vercel.app",
+      github: "#",
+      year: "2023",
       featured: true
     },
     {
@@ -91,36 +121,6 @@ export function ProjectsSection() {
       github: "#",
       year: "2021",
       featured: false
-    },
-    {
-      title: "Bakso Kaisar",
-      description: "Delicious and Authentic Meatball Delights – A Taste of Tradition in Every Bite!",
-      image: "https://1.bp.blogspot.com/-rPscTos01qE/XoSc5x-Av8I/AAAAAAAAGaM/kGdd2q5_9KUR5LNdZnMNueGEtou0J_e7wCLcBGAsYHQ/s640/resep-bakso-mercon-simple.jpg",
-      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
-      link: "https://baksokaisar.vercel.app",
-      github: "#",
-      year: "2024",
-      featured: false
-    },
-    {
-      title: "DapoeRasa",
-      description: "DapoeRasa is a premium catering service offering delicious, high-quality meals for daily needs, corporate events, and special occasions.",
-      image: "https://th.bing.com/th/id/OIP.yZMqqi85Ca8zNpe8aSyCWwHaE8?rs=1&pid=ImgDetMain",
-      tags: ["Next.js", "Styled Components", "Sanity CMS", "Three.js"],
-      link: "https://dapoerasa.vercel.app",
-      github: "#",
-      year: "2025",
-      featured: true
-    },
-    {
-      title: "Ardisia Design",
-      description: "Professional architecture service website with portfolio showcase, 3D models, and consultation booking.",
-      image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
-      tags: ["Next.js", "Styled Components", "Sanity CMS", "Three.js"],
-      link: "https://ardisia.vercel.app",
-      github: "#",
-      year: "2023",
-      featured: true
     },
   ];
 
