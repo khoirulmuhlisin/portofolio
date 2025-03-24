@@ -43,6 +43,16 @@ export function ProjectsSection() {
       featured: false
     },
     {
+      title: "Vero Design",
+      description: "Designing spaces, creating experiences – architectural designs that inspire and endure.",
+      image: "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXJjaGl0ZWN0dXJlfGVufDB8fDB8fHww",
+      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
+      link: "https://verodesign.vercel.app",
+      github: "#",
+      year: "2024",
+      featured: false
+    },
+    {
       title: "NgopiKuy",
       description: "Modern coffee shop website with online ordering capabilities, customer accounts, and admin dashboard.",
       image: "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
