@@ -57,7 +57,7 @@ export function ProjectsSection() {
       description: "Enjoying timeless traditional flavors in every dish full of memories",
       image: "https://www.elitehavens.com/magazine/wp-content/uploads/2023/02/Bali-Ketupat-Lebaran-the-Traditional-Celebratory-Dish-iStock-1024x576-1-480x270.jpg",
       tags: ["Next.js", "Styled Components", "Sanity CMS", "Three.js"],
-      link: "https://jajananlulu.vercel.app",
+      link: "https://warungku-peach.vercel.app",
       github: "#",
       year: "2025",
       featured: true
