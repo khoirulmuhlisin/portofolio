@@ -43,6 +43,16 @@ export function ProjectsSection() {
       featured: true
     },
     {
+      title: "Vero Design",
+      description: "Designing spaces, creating experiences – architectural designs that inspire and endure.",
+      image: "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXJjaGl0ZWN0dXJlfGVufDB8fDB8fHww",
+      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
+      link: "https://verodesign.vercel.app",
+      github: "#",
+      year: "2024",
+      featured: false
+    },
+    {
       title: "Warung Bu Ade",
       description: "School canteen website with interactive menu, ordering system, and inventory management.",
       image: "https://plus.unsplash.com/premium_photo-1663126629970-f76cf591361d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Zm9vZCUyMGNvdXJ0fGVufDB8fDB8fHww",
@@ -91,16 +101,6 @@ export function ProjectsSection() {
       github: "#",
       year: "2025",
       featured: true
-    },
-    {
-      title: "Vero Design",
-      description: "Designing spaces, creating experiences – architectural designs that inspire and endure.",
-      image: "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXJjaGl0ZWN0dXJlfGVufDB8fDB8fHww",
-      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
-      link: "https://verodesign.vercel.app",
-      github: "#",
-      year: "2024",
-      featured: false
     },
     {
       title: "Jajana Lulu",
