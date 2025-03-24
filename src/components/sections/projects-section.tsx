@@ -43,6 +43,16 @@ export function ProjectsSection() {
       featured: false
     },
     {
+      title: "Jajana Lulu",
+      description: "Dare to take a bite? Experience the crunch, feel the melt, taste the magic!.",
+      image: "https://down-id.img.susercontent.com/file/sg-11134201-23020-883x3sd6i4mv04",
+      tags: ["Next.js", "Styled Components", "Sanity CMS", "Three.js"],
+      link: "https://jajananlulu.vercel.app",
+      github: "#",
+      year: "2025",
+      featured: true
+    },
+    {
       title: "NgopiKuy",
       description: "Modern coffee shop website with online ordering capabilities, customer accounts, and admin dashboard.",
       image: "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -51,16 +61,6 @@ export function ProjectsSection() {
       github: "#",
       year: "2023",
       featured: true
-    },
-    {
-      title: "Vero Design",
-      description: "Designing spaces, creating experiences – architectural designs that inspire and endure.",
-      image: "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXJjaGl0ZWN0dXJlfGVufDB8fDB8fHww",
-      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
-      link: "https://verodesign.vercel.app",
-      github: "#",
-      year: "2024",
-      featured: false
     },
     {
       title: "Warung Bu Ade",
@@ -73,16 +73,6 @@ export function ProjectsSection() {
       featured: true
     },
     {
-      title: "Vero Design",
-      description: "Designing spaces, creating experiences – architectural designs that inspire and endure.",
-      image: "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXJjaGl0ZWN0dXJlfGVufDB8fDB8fHww",
-      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
-      link: "https://verodesign.vercel.app",
-      github: "#",
-      year: "2024",
-      featured: false
-    },
-    {
       title: "Odading Mang Abo",
       description: "Traditional cake business website with online store, payment integration, and order tracking.",
       image: "https://i0.wp.com/resepkoki.id/wp-content/uploads/2018/04/Resep-Odading.jpg?fit=1481%2C1144&ssl=1",
@@ -90,16 +80,6 @@ export function ProjectsSection() {
       link: "https://odadingmangabo.vercel.app",
       github: "#",
       year: "2022",
-      featured: false
-    },
-    {
-      title: "Vero Design",
-      description: "Designing spaces, creating experiences – architectural designs that inspire and endure.",
-      image: "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXJjaGl0ZWN0dXJlfGVufDB8fDB8fHww",
-      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
-      link: "https://verodesign.vercel.app",
-      github: "#",
-      year: "2024",
       featured: false
     },
     {
@@ -123,16 +103,6 @@ export function ProjectsSection() {
       featured: false
     },
     {
-      title: "Vero Design",
-      description: "Designing spaces, creating experiences – architectural designs that inspire and endure.",
-      image: "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXJjaGl0ZWN0dXJlfGVufDB8fDB8fHww",
-      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
-      link: "https://verodesign.vercel.app",
-      github: "#",
-      year: "2024",
-      featured: false
-    },
-    {
       title: "DapoeRasa",
       description: "DapoeRasa is a premium catering service offering delicious, high-quality meals for daily needs, corporate events, and special occasions.",
       image: "https://th.bing.com/th/id/OIP.yZMqqi85Ca8zNpe8aSyCWwHaE8?rs=1&pid=ImgDetMain",
@@ -141,36 +111,6 @@ export function ProjectsSection() {
       github: "#",
       year: "2025",
       featured: true
-    },
-    {
-      title: "Jajana Lulu",
-      description: "Dare to take a bite? Experience the crunch, feel the melt, taste the magic!.",
-      image: "https://down-id.img.susercontent.com/file/sg-11134201-23020-883x3sd6i4mv04",
-      tags: ["Next.js", "Styled Components", "Sanity CMS", "Three.js"],
-      link: "https://jajananlulu.vercel.app",
-      github: "#",
-      year: "2025",
-      featured: true
-    },
-    {
-      title: "Vero Design",
-      description: "Designing spaces, creating experiences – architectural designs that inspire and endure.",
-      image: "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXJjaGl0ZWN0dXJlfGVufDB8fDB8fHww",
-      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
-      link: "https://verodesign.vercel.app",
-      github: "#",
-      year: "2024",
-      featured: false
-    },
-    {
-      title: "Vero Design",
-      description: "Designing spaces, creating experiences – architectural designs that inspire and endure.",
-      image: "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXJjaGl0ZWN0dXJlfGVufDB8fDB8fHww",
-      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
-      link: "https://verodesign.vercel.app",
-      github: "#",
-      year: "2024",
-      featured: false
     },
     {
       title: "Ardisia Design",
