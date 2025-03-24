@@ -63,16 +63,6 @@ export function ProjectsSection() {
       featured: false
     },
     {
-      title: "Vero Design",
-      description: "Designing spaces, creating experiences – architectural designs that inspire and endure.",
-      image: "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXJjaGl0ZWN0dXJlfGVufDB8fDB8fHww",
-      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
-      link: "https://verodesign.vercel.app",
-      github: "#",
-      year: "2024",
-      featured: false
-    },
-    {
       title: "Selamat Ulang Tahun",
       description: "Interactive birthday greeting website with customizable messages, animations, and music.",
       image: "https://memesbams.com/wp-content/uploads/2019/05/Cool-Happy-Birthday-To-You-Images-3.jpg",
@@ -102,7 +92,17 @@ export function ProjectsSection() {
       year: "2025",
       featured: true
     },
-        {
+    {
+      title: "Vero Design",
+      description: "Designing spaces, creating experiences – architectural designs that inspire and endure.",
+      image: "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXJjaGl0ZWN0dXJlfGVufDB8fDB8fHww",
+      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
+      link: "https://verodesign.vercel.app",
+      github: "#",
+      year: "2024",
+      featured: false
+    },
+    {
       title: "Jajana Lulu",
       description: "Dare to take a bite? Experience the crunch, feel the melt, taste the magic!.",
       image: "https://down-id.img.susercontent.com/file/sg-11134201-23020-883x3sd6i4mv04",
