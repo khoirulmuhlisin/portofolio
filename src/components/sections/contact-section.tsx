@@ -42,12 +42,14 @@ export function ContactSection() {
     {
       icon: <Mail className="h-5 w-5" />,
       title: "Email",
-      value: "info@khoirulmuhlisin.my.id",
+      value: "khoerulmuhlisin3@gmail.com",
+      url: "mailto:khoerulmuhlisin3@gmail.com",
     },
     {
       icon: <Phone className="h-5 w-5" />,
       title: "Phone",
-      value: "+62 812 1062 2374",
+      value: "+62 896 7478 1608",
+      url: "wa.me/6289674781608",
     },
     {
       icon: <MapPin className="h-5 w-5" />,
