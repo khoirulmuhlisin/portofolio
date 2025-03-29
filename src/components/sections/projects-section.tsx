@@ -43,16 +43,6 @@ export function ProjectsSection() {
       featured: false
     },
     {
-      title: "Undangan Pernikahan",
-      description: "Connecting Two Hearts, Sharing Love Through an Invitation Full of Meaning.",
-      image: "https://images.unsplash.com/photo-1520854221256-17451cc331bf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8d2VkZGluZ3xlbnwwfHwwfHx8MA%3D%3D",
-      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
-      link: "https://marimenikah.vercel.app",
-      github: "#",
-      year: "2025",
-      featured: true
-    },
-    {
       title: "Jajanan Lulu",
       description: "Dare to take a bite? Experience the crunch, feel the melt, taste the magic!.",
       image: "https://down-id.img.susercontent.com/file/sg-11134201-23020-883x3sd6i4mv04",
@@ -68,6 +58,16 @@ export function ProjectsSection() {
       image: "https://www.elitehavens.com/magazine/wp-content/uploads/2023/02/Bali-Ketupat-Lebaran-the-Traditional-Celebratory-Dish-iStock-1024x576-1-480x270.jpg",
       tags: ["Next.js", "Styled Components", "Sanity CMS", "Three.js"],
       link: "https://warungku-peach.vercel.app",
+      github: "#",
+      year: "2025",
+      featured: true
+    },
+    {
+      title: "Wedding Invitation",
+      description: "Connecting Two Hearts, Sharing Love Through an Invitation Full of Meaning.",
+      image: "https://images.unsplash.com/photo-1520854221256-17451cc331bf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8d2VkZGluZ3xlbnwwfHwwfHx8MA%3D%3D",
+      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
+      link: "https://marimenikah.vercel.app",
       github: "#",
       year: "2025",
       featured: true
