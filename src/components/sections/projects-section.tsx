@@ -43,7 +43,6 @@ export function ProjectsSection() {
       featured: false
     },
     {
-    {
       title: "Undangan Pernikahan",
       description: "Connecting Two Hearts, Sharing Love Through an Invitation Full of Meaning.",
       image: "https://images.unsplash.com/photo-1520854221256-17451cc331bf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8d2VkZGluZ3xlbnwwfHwwfHx8MA%3D%3D",
