@@ -52,7 +52,8 @@ export function ProjectsSection() {
       year: "2025",
       featured: true
     },
-      title: "Jajana Lulu",
+    {
+      title: "Jajanan Lulu",
       description: "Dare to take a bite? Experience the crunch, feel the melt, taste the magic!.",
       image: "https://down-id.img.susercontent.com/file/sg-11134201-23020-883x3sd6i4mv04",
       tags: ["Next.js", "Styled Components", "Sanity CMS", "Three.js"],
