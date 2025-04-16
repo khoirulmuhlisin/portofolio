@@ -133,11 +133,51 @@ export function ProjectsSection() {
       featured: false
     },
     {
+      title: "Wedding Invitation 2",
+      description: "A New Chapter Begins – Celebrate Our Love Story.",
+      image: "https://images.unsplash.com/photo-1606800052052-a08af7148866?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
+      link: "https://marimenikah2.vercel.app",
+      github: "#",
+      year: "2025",
+      featured: true
+    },
+    {
+      title: "Wedding Invitation 3",
+      description: "Our Love Story Continues – Be Part of Our Special Day.",
+      image: "https://images.unsplash.com/photo-1562616261-7bb659f860ed?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
+      link: "https://marimenikah2.vercel.app",
+      github: "#",
+      year: "2025",
+      featured: true
+    },
+    {
+      title: "Inventory App",
+      description: "Manage Your Inventory with Ease and Precision.",
+      image: "https://images.unsplash.com/photo-1664382953403-fc1ac77073a0?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
+      link: "https://globin-inventory.vercel.app",
+      github: "#",
+      year: "2025",
+      featured: true
+    },
+    {
+      title: "Office Stock Manager",
+      description: "Effortless Stock Management, Seamless Transactions.",
+      image: "https://images.unsplash.com/photo-1721937127582-ed331de95a04?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3RvY2slMjBtYW5hZ2luZ3xlbnwwfHwwfHx8MA%3D%3D",
+      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
+      link: "https://globin-inventory.vercel.app",
+      github: "#",
+      year: "2025",
+      featured: true
+    },
+    {
       title: "Selamat Ulang Tahun",
       description: "Interactive birthday greeting website with customizable messages, animations, and music.",
       image: "https://memesbams.com/wp-content/uploads/2019/05/Cool-Happy-Birthday-To-You-Images-3.jpg",
       tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
-      link: "https://selamatulangtahun.vercel.app",
+      link: "https://selamatulangtahun-eta.vercel.app",
       github: "#",
       year: "2021",
       featured: false
