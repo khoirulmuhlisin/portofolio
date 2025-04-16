@@ -39,8 +39,8 @@ export function ProjectsSection() {
       tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
       link: "https://verodesign.vercel.app",
       github: "#",
-      year: "2024",
-      featured: false
+      year: "2025",
+      featured: true
     },
     {
       title: "Jajanan Lulu",
@@ -89,8 +89,8 @@ export function ProjectsSection() {
       tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
       link: "https://baksokaisar.vercel.app",
       github: "#",
-      year: "2024",
-      featured: false
+      year: "2025",
+      featured: true
     },
     {
       title: "NgopiKuy",
@@ -119,8 +119,8 @@ export function ProjectsSection() {
       tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
       link: "https://odadingmangabo.vercel.app",
       github: "#",
-      year: "2022",
-      featured: false
+      year: "2024",
+      featured: true
     },
     {
       title: "Wedding Invitation 1",
@@ -179,8 +179,8 @@ export function ProjectsSection() {
       tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
       link: "https://selamatulangtahun-eta.vercel.app",
       github: "#",
-      year: "2021",
-      featured: false
+      year: "2024",
+      featured: true
     },
   ];
 
