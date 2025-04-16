@@ -63,16 +63,6 @@ export function ProjectsSection() {
       featured: true
     },
     {
-      title: "Wedding Invitation",
-      description: "Connecting Two Hearts, Sharing Love Through an Invitation Full of Meaning.",
-      image: "https://images.unsplash.com/photo-1520854221256-17451cc331bf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8d2VkZGluZ3xlbnwwfHwwfHx8MA%3D%3D",
-      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
-      link: "https://marimenikah.vercel.app",
-      github: "#",
-      year: "2025",
-      featured: true
-    },
-    {
       title: "DapoeRasa",
       description: "DapoeRasa is a premium catering service offering delicious, high-quality meals for daily needs, corporate events, and special occasions.",
       image: "https://th.bing.com/th/id/OIP.yZMqqi85Ca8zNpe8aSyCWwHaE8?rs=1&pid=ImgDetMain",
@@ -133,6 +123,16 @@ export function ProjectsSection() {
       featured: false
     },
     {
+      title: "Wedding Invitation 1",
+      description: "Connecting Two Hearts, Sharing Love Through an Invitation Full of Meaning.",
+      image: "https://images.unsplash.com/photo-1520854221256-17451cc331bf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8d2VkZGluZ3xlbnwwfHwwfHx8MA%3D%3D",
+      tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
+      link: "https://marimenikah.vercel.app",
+      github: "#",
+      year: "2025",
+      featured: true
+    },
+    {
       title: "Wedding Invitation 2",
       description: "A New Chapter Begins – Celebrate Our Love Story.",
       image: "https://images.unsplash.com/photo-1606800052052-a08af7148866?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -167,7 +167,7 @@ export function ProjectsSection() {
       description: "Effortless Stock Management, Seamless Transactions.",
       image: "https://images.unsplash.com/photo-1721937127582-ed331de95a04?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3RvY2slMjBtYW5hZ2luZ3xlbnwwfHwwfHx8MA%3D%3D",
       tags: ["Vite", "Tailwind CSS", "React", "Shadcn-ui", "TypeScript"],
-      link: "https://globin-inventory.vercel.app",
+      link: "https://unitproduksi.vercel.app",
       github: "#",
       year: "2025",
       featured: true
