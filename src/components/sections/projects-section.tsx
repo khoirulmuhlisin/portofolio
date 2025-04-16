@@ -115,7 +115,7 @@ export function ProjectsSection() {
     {
       title: "Ardisia Design",
       description: "Professional architecture service website with portfolio showcase, 3D models, and consultation booking.",
-      image: "https://scontent.fcgk27-2.fna.fbcdn.net/v/t39.30808-6/480699148_1065263772282764_562547638451469396_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeG9v4_OA-M0oDgBBoRMU2yvOCZnz0VHFvI4JmfPRUcW8pFTGUaiSwviQNaRfuWRsDh-76fZ2Wikl4fd0W24tAsn&_nc_ohc=ZrurtXt1xIAQ7kNvgFC-dQr&_nc_oc=AdnykB6C-1zdKyX6RmB1trvuwvu5Caiht1hOYK3l-U99IGmw5ZNMmyaJ4YqN7LTuABU&_nc_zt=23&_nc_ht=scontent.fcgk27-2.fna&_nc_gid=6zjXbP1lRuJrhphVyfIJhg&oh=00_AYE6hTvXS2Qo0NW0wgOtFcWeY52dBf6ORQgXd03A78tzDg&oe=67EA8C34",
+      image: "https://images.unsplash.com/photo-1487958449943-2429e8be8625?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       tags: ["Next.js", "Styled Components", "Sanity CMS", "Three.js"],
       link: "https://ardisiadesain.vercel.app",
       github: "#",
