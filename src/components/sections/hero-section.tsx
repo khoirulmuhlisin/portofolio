@@ -68,15 +68,6 @@ export function HeroSection() {
                 </a>
               </Button>
             </div>
-
-            <div className="flex items-center gap-4 pt-4 animate-fadeIn animate-delay-500">
-              <Button asChild variant="ghost" size="sm" className="gap-2 text-muted-foreground">
-                <a href="#" className="group">
-                  <Download className="h-4 w-4 transition-transform group-hover:-translate-y-1" />
-                  Download CV
-                </a>
-              </Button>
-            </div>
           </div>
           
           <div className="relative order-1 md:order-2 animate-fadeIn">
@@ -84,7 +75,7 @@ export function HeroSection() {
               <div className="absolute inset-0 bg-gradient-to-tr from-primary/20 to-secondary/20 rounded-full animate-float"></div>
               <div className="absolute inset-4 overflow-hidden rounded-full border border-border/50 bg-background/30 backdrop-blur-sm">
                 <img
-                  src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8d2ViJTIwZGVsZXZvcGVyfGVufDB8fDB8fHww"
+                  src="https://tse3.mm.bing.net/th/id/OIP.Y188xgyBEQPB6CAFmu1drAHaHa?rs=1&pid=ImgDetMain"
                   alt="Khoirul Muhlisin"
                   className="w-full h-full object-cover"
                 />
