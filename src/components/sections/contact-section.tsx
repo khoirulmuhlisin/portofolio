@@ -72,7 +72,7 @@ export function ContactSection() {
     {
       icon: <Github className="h-5 w-5" />,
       name: "GitHub",
-      url: "https://github.com/khoerulmuhlisin",
+      url: "https://github.com/khoirulmuhlisin",
     },
     {
       icon: <Globe className="h-5 w-5" />,
